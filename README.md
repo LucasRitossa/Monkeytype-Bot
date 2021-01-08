@@ -8,6 +8,7 @@ Dependencies:
 - nodejs
 
 This script is able to complete a 30 second typing test with over 2000 wpm
+
 Delay can be tuned but its sort of a pain because its not structured in any way :)
 
 This tool is only to be used offline
