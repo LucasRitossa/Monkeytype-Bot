@@ -1,0 +1,22 @@
+{
+  "name": "monkeytype-bot",
+  "version": "1.0.0",
+  "description": "This script started as a joke for a friend, thus the horrendous code... I might clean this script up as it is totally functional",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRitossa/Monkeytype-Bot.git"
+  },
+  "author": "LucasRitossa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasRitossa/Monkeytype-Bot/issues"
+  },
+  "homepage": "https://github.com/LucasRitossa/Monkeytype-Bot#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
